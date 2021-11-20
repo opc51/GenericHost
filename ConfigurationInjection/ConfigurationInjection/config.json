@@ -1,0 +1,19 @@
+{
+  "exclude": [
+    "**/bin",
+    "**/bower_components",
+    "**/jspm_packages",
+    "**/node_modules",
+    "**/obj",
+    "**/platforms"
+  ],
+  "DefaultPictureSize": 30,
+  "thumbnail": {
+    "width": 30,
+    "filePrefix":  "thumbnail-"
+  },
+  "medium": {
+    "width": 60,
+    "filePrefix": "medium-"
+  }
+}

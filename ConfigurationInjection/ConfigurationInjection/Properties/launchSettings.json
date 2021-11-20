@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ConfigurationInjection": {
+      "commandName": "Project",
+      "commandLineArgs": "Waterfall.jpeg  ink --DefaultPictureSize 300 --thumbnail:width=25"
+    }
+  }
+}
